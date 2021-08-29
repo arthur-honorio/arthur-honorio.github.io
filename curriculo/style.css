@@ -160,6 +160,11 @@ h5 {
 /* ================================================================ */
 /* ================================================================ */
 
+.recuo {
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
 .recuo-tabela {
   margin-bottom: 20px;
   margin-left: 20px;
@@ -343,7 +348,7 @@ hr {
     margin: 40px auto;
     width: 100%;
     position: static;
-  }
+  } 
 
   .vertical {
     display: none;
